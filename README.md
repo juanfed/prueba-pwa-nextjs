@@ -1,4 +1,4 @@
-# Progressive Web App Example
+# Solo se creo para ver si funciona el instaldor de pwa en desktop y en mobile, por ende no tiene mas contenido que el que viene al crear una app en next y el de la libreria que se use para convertir la app en una PWA
 
 This example uses [`next-pwa`](https://github.com/shadowwalker/next-pwa) to create a progressive web app (PWA) powered by [Workbox](https://developers.google.com/web/tools/workbox/).
 
